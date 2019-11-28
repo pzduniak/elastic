@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/pzduniak/elastic/uritemplates"
 )
 
 // XPackSecurityDeleteRoleMappingService delete a role mapping by its name.

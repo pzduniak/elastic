@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/pzduniak/elasticritemplates"
 )
 
 // XPackWatcherAckWatchService enables you to manually throttle execution of the watch’s actions.

@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/pzduniak/elastic/uritemplates"
 )
 
 // ClusterStatsService is documented at

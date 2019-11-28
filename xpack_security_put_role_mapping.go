@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/pzduniak/elastic
 )
 
 // XPackSecurityPutRoleMappingService create or update a role mapping by its name.
